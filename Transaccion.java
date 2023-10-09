@@ -20,7 +20,7 @@ class Transaccion {
     }
 
     public String getDescripcion() {
-        return descripcion;
+        return monto;
     }
 
     public double getMonto() {
